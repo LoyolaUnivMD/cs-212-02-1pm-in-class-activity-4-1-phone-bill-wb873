@@ -1,1 +1,26 @@
-THINK before you code...
+import scanner
+
+create scanner obj
+take input for name of phone plan(plan)
+take input for how many gigabytes(gb)
+while loop for while plan is one of the three plans
+    if it is the green plan:
+        cost = 49.99
+        if gb > 2
+            cost += gb-2*15
+
+        ask if they have a coupon
+        if cost > 75 and they have a coupon
+            cost -= 20
+
+    else if it is blue plan
+        cost = 70
+        if gb > 4
+            cost += gb-4 * 10
+
+    else
+        cost = 99.95
+
+    print the cost
+
+

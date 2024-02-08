@@ -1,1 +1,12 @@
-Test cases go here. 
+Plan            GB              cost
+green(coupon)    9              134.99
+green            0              49.99
+green(coupon)    2              49.99
+green            100            1519.99
+
+blue            3               70.00
+blue            7               100.00
+blue            332             3350.00
+
+purple         any                 99.95
+
